@@ -1,0 +1,13 @@
+services:
+
+  property-service:
+    build:
+      context: ./property_service
+    ports:
+      - "8080:8080"
+
+  ticket-service:
+    build:
+      context: ./ticket_service
+    ports:
+      - "8081:8081"

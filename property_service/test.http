@@ -1,0 +1,7 @@
+POST http://localhost:8080/tenant
+Content-Type: application/json
+
+{
+  "name": "Mark",
+  "email": "Mark@test.com"
+}
