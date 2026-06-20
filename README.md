@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Property Ticket Microservice
 
 A microservice-based property management system built using Spring Boot.
@@ -93,3 +94,4 @@ DELETE /ticket/{id}
 =======
 # property-ticket-microservice
 Property and ticket management system built with Spring Boot, OpenFeign microservices, Docker, H2 Database, Java Streams, and native SQL queries.
+>>>>>>> 64ca91a2613a109d765faba1080c87e0b1f179c0
